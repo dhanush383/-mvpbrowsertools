@@ -1,3 +1,4 @@
+import { Analytics } from "@vercel/analytics/react";
 import { Footer } from "./components/layout/Footer";
 import { Header } from "./components/layout/Header";
 import { AppRoutes } from "./routes/AppRoutes";
@@ -8,6 +9,7 @@ export function App() {
       <Header />
       <AppRoutes />
       <Footer />
+      <Analytics />
     </div>
   );
 }
