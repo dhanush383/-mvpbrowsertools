@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="LaptopFixTools">
+  <rect width="1200" height="630" fill="#f8fafc"/>
+  <rect x="70" y="70" width="1060" height="490" rx="36" fill="#0f172a"/>
+  <rect x="112" y="120" width="390" height="74" rx="16" fill="#0f766e"/>
+  <rect x="112" y="236" width="380" height="42" rx="10" fill="#ffffff" opacity=".88"/>
+  <rect x="112" y="306" width="520" height="42" rx="10" fill="#ffffff" opacity=".72"/>
+  <rect x="704" y="132" width="310" height="86" rx="16" fill="#ffffff"/>
+  <rect x="704" y="250" width="310" height="86" rx="16" fill="#ffffff"/>
+  <rect x="704" y="368" width="310" height="86" rx="16" fill="#ffffff"/>
+  <circle cx="742" cy="175" r="16" fill="#14b8a6"/>
+  <circle cx="742" cy="293" r="16" fill="#0ea5e9"/>
+  <circle cx="742" cy="411" r="16" fill="#f59e0b"/>
+  <text x="132" y="172" fill="#ffffff" font-family="Arial, sans-serif" font-size="44" font-weight="800">LaptopFixTools</text>
+  <text x="112" y="382" fill="#ffffff" font-family="Arial, sans-serif" font-size="56" font-weight="800">Instant laptop fixes</text>
+  <text x="112" y="444" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="30">Test. Resize. Blur. Share. No login.</text>
+</svg>

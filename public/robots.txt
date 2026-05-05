@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://laptopfixtools.com/sitemap.xml
